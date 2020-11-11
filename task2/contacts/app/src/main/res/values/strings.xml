@@ -6,4 +6,11 @@
     <string name="textText">Text</string>
     <string name="setupText">Set up</string>
     <string name="emailText">Email</string>
+    <string name="phone_number">551 11 12 46</string>
+    <string name="phone_number_type">Mobile</string>
+    <string name="mainFistLetter">A</string>
+    <string name="mainshapeimage">mainShapeImage</string>
+    <string name="todo">TODO</string>
+
+
 </resources>
