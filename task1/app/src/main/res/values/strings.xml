@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+    <string name="search_icon">search icon</string>
+    <string name="_3_dots_icon">3 dots icon</string>
+    <string name="back_page_icon">back_page icon</string>
+    <string name="map_icon">map_icon</string>
+    <string name="uninstall">UNINSTALL</string>
+    <string name="open">OPEN</string>
+    <string name="_5_493_032">5,493,032</string>
+    <string name="travel_local"><![CDATA[Travel & Local]]></string>
+    <string name="similar">Similar</string>
+    <string name="get_the_latest_google_maps_app">Get the latest Google Maps app.</string>
+    <string name="what_s_news">WHAT\S NEW</string>
+    <string name="whats_news">• Easily find hours and phone numbers for large department stores with the new department store directory in Google Maps.</string>
+    <string name="US_only">(US Only)</string>
+    <string name="read_more">READ MORE</string>
+    <string name="maps">Maps</string>
+    <string name="google_inc">Google Inc</string>
+    <string name="_3">3+</string>
+    <string name="downloads">Downloads</string>
+</resources>
