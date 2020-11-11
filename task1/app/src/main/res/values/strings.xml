@@ -18,4 +18,7 @@
     <string name="google_inc">Google Inc</string>
     <string name="_3">3+</string>
     <string name="downloads">Downloads</string>
+    <string name="downloadsId">1</string>
+    <string name="reviewsId">4.3</string>
+    <string name="uninstallSnackBar">Uninstalled</string>
 </resources>
